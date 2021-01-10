@@ -1,0 +1,11 @@
+{
+    "Login": "Se connecter",
+    "E-Mail Address": "E-mail",
+    "Password": "Mot de passe",
+    "Remember Me": "Se souvenir de moi",
+    "Forgot Your Password?": "Mot de passe oublié?",
+    "Laracasts": "Laracasts propose des milliers de didacticiels vidéo sur le développement Laravel, PHP et JavaScript. Vérifiez-les, voyez par vous-même et améliorez massivement vos compétences en développement au cours du processus.",
+    "Documentation": "Laravel a une documentation merveilleuse et complète couvrant tous les aspects du cadre. Que vous soyez nouveau dans le framework ou que vous ayez une expérience antérieure avec Laravel, nous vous recommandons de lire toute la documentation du début à la fin.",
+    "Laravel News": "Laravel News est un portail et un bulletin d'information axés sur la communauté regroupant toutes les nouvelles les plus récentes et les plus importantes de l'écosystème Laravel, y compris les nouvelles versions de packages et les didacticiels.",
+    "Vibrant Ecosystem": "La bibliothèque robuste d'outils et de bibliothèques de première partie de Laravel, tels que Forge, Vapor, Nova et Envoyer, vous aide à faire passer vos projets au niveau supérieur. Associez-les à de puissantes bibliothèques open source telles que Cashier, Dusk, Echo, Horizon, Sanctum, Telescope, etc."
+}
